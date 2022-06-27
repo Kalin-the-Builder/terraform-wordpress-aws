@@ -1,0 +1,1 @@
+database_password = "SuperSecurePassword" # DB Password
